@@ -42,4 +42,4 @@ def login(username,password,oncaptcha):
 
 #@?r=%d&type=login'%(time.time()*1000
 if __name__ == "__main__":
-    login('18271656694','xgy118',get_captcha)
+    login('inputname','password',get_captcha)
